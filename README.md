@@ -1,0 +1,1 @@
+Just a quick, simple little project meant to demonstrate what I've learned with HTML so far. Namely lists, organizing pages, and using basic tags.
