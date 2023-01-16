@@ -1,0 +1,13 @@
+body {
+    background-color: goldenrod;
+}
+
+.title,
+.subheading {
+    text-align: center;
+    color: red;
+}
+
+p {
+    text-align: center;
+}
